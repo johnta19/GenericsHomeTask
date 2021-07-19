@@ -1,6 +1,6 @@
 package com.Alevel;
 
-public class Box<T> {
+public class Box<T extends Goods> {
 
     private T item;
 
