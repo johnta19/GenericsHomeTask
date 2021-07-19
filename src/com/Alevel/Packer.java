@@ -20,7 +20,7 @@ public class Packer {
 //       System.out.println(foodBox);
 
         List<Food> foodList = new ArrayList<>();
-        //foodList.add(new Food("food"));
+        foodList.add(new Food("food"));
         List<Cake> cakeList = new ArrayList<>();
         cakeList.add(new Cake("cake"));
         List<Pie> pieList = new ArrayList<>();
